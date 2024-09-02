@@ -23,10 +23,10 @@ timezone: Europe/Berlin
 # ↓ --------------------------
 title: Yacine Zahidi
 
-tagline: "<div>Welcome to my blog!</div><div style='padding-bottom: 10px;'></div><div>I'm a software dev focussing on artificial intelligence, development and indie hacking.</div><div style='padding-bottom: 10px;'></div><div>Recently I've worked on Generative AI, Open Source, and 3D</div><div style='padding-bottom: 10px;'></div>"
+tagline: "<div>Welcome to my blog!</div><div style='padding-bottom: 10px;'></div><div>I'm a software dev focusing on artificial intelligence, development and indie hacking.</div><div style='padding-bottom: 10px;'></div><div>Recently I've worked on Generative AI, Open Source, and 3D</div><div style='padding-bottom: 10px;'></div>"
 
 description: >-
-  Blog from Yacine Zahidi, an software dev focussing on artificial intelligence, development and indie hacking. Yacine has experience training models and deploying AI-powered SaaS apps.
+  Blog from Yacine Zahidi, an software dev focusing on artificial intelligence, development and indie hacking. Yacine has experience training models and deploying AI-powered SaaS apps.
 
 github:
   username: ell-hol
