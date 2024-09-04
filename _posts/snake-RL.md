@@ -1,3 +1,19 @@
+---
+title: "Building an AI-Powered Snake Game with Reinforcement Learning"
+date: "2024-09-04T00:00:00+00:00"
+author: "Your Name"
+layout: post
+permalink: /articles/ai-snake-game/
+categories:
+  - Machine Learning
+  - Reinforcement Learning
+tags:
+  - Python
+  - PyTorch
+  - Game Development
+  - Artificial Intelligence
+---
+
 # Building an AI-Powered Snake Game with Reinforcement Learning
 
 ![Snake Game](https://private-user-images.githubusercontent.com/21223467/363158403-6119676f-b9d2-4e6f-8dc9-baac4e054529.png)
