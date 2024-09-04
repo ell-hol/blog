@@ -20,9 +20,9 @@ Bitcoin's price is influenced by many factors, including market demand, regulato
 
 For this purpose, we use a simple power-law model with the following formula:
 
-\[
+```math
 \text{Predicted Price} = C \times (\text{Days Since Genesis Block})^k
-\]
+```
 
 - **C**: A scaling constant, set to \(1.60 \times 10^{-18}\).
 - **k**: A growth rate parameter, set to 6.04.
