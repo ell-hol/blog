@@ -1,17 +1,16 @@
 ---
-title: "Building an AI-Powered Snake Game with Reinforcement Learning"
-date: "2024-09-04T00:00:00+00:00"
-author: "Your Name"
+id: 54
+title: "Welcome to my new blog !"
+date: "2008-09-29T00:00:00+00:00"
+author: "Niklas Heidloff"
 layout: post
-permalink: /articles/ai-snake-game/
+guid: "welcome-to-my-new-blog"
+custom_permalink:
+  - article/30.09.2008065755NHEEV9.htm/
+dsq_thread_id:
+  - "4317545101"
 categories:
-  - Machine Learning
-  - Reinforcement Learning
-tags:
-  - Python
-  - PyTorch
-  - Game Development
-  - Artificial Intelligence
+  - Articles
 ---
 
 # Building an AI-Powered Snake Game with Reinforcement Learning
