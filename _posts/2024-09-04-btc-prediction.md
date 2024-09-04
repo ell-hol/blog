@@ -6,12 +6,16 @@ author: "Yacine Zahidi"
 layout: post
 guid: "btc-prediction-1"
 custom_permalink:
+
   - /article/btc-prediction-1
 categories:
   - Articles
+image: https://github.com/user-attachments/assets/66a486b5-57f8-45f7-a808-3ee8216cd756
 ---
 
 # Predicting Bitcoin Prices Using Python
+
+![predictions_4th_March_2024](https://github.com/user-attachments/assets/66a486b5-57f8-45f7-a808-3ee8216cd756)
 
 Bitcoin, the first and most well-known cryptocurrency, has captivated the world with its unpredictable price movements and massive growth over the years. In this article, we'll use Python to predict Bitcoin prices by applying a simple mathematical model based on historical data. Whether you're a data science enthusiast, a financial analyst, or just curious about cryptocurrency, this tutorial will guide you through the process of predicting Bitcoin prices using a few lines of Python code.
 
