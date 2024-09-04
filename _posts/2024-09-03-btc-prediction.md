@@ -1,7 +1,7 @@
 ---
 id: btc-prediction
 title: "Predicting Bitcoin Prices Using Python"
-date: "2024-09-04T19:49:00+00:00"
+date: "2024-09-03T00:00:00+00:00"
 author: "Yacine Zahidi"
 layout: post
 guid: "btc-prediction-1"
