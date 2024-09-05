@@ -1,5 +1,5 @@
 ---
-id: snake-rl-1
+id: painkiller-vs-vitamin-1
 title: "💉 Painkiller vs. Vitamin 💊"
 date: "2024-09-05T00:00:00+00:00"
 author: "Yacine Zahidi"
