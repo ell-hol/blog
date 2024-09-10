@@ -1,6 +1,6 @@
 ---
 id: skepticism-innovation
-title: "Skepticism and the Spirit of Innovation in the Startup World"
+title: "A Skeptic's Guide To Innovation In The Startup Game"
 date: "2024-09-10T00:00:00+00:00"
 author: "Yacine Zahidi"
 layout: post
