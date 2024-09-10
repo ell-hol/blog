@@ -9,14 +9,15 @@ custom_permalink:
   - /article/skepticism-innovation-1
 categories:
   - Articles
-image: https://github.com/user-attachments/assets/66a486b5-57f8-45f7-a808-3ee8216cd756
+image: https://github.com/user-attachments/assets/feb6c75f-611b-4f2a-a832-bda1325f4f54
 ---
+
 
 There’s a strange tension that I’ve often felt in the startup world, one that lives at the crossroads between skepticism and the spirit of innovation. As someone who has co-founded a SaaS startup aimed at speeding up the work of architects and designers, I’ve had to walk this tightrope almost daily. And, believe me, it’s not easy. Too much skepticism can kill the spark of creativity, while too much chaotic innovation can send you running in every direction without making any real progress.
 
 ## The Double-Edged Sword of Skepticism
 
-Skepticism in startups can be both a curse and a blessing. As an INTP personality type, I am naturally predisposed to question everything, dissecting ideas before they even have a chance to prove their worth. In the past, I've often been the one to shoot down ideas, thinking I was protecting the team from wasting time on things that "obviously" wouldn't work. But I was really just limiting our potential for discovery and experimentation.
+Skepticism in startups can be both a curse and a blessing. Being naturally predisposed to question everything, dissecting ideas before they even have a chance to prove their worth, I've often been the one to shoot down ideas, thinking I was protecting the team from wasting time on things that "obviously" wouldn't work. But I might havel limited our potential for discovery and experimentation by doing so.
 
 Paul Graham, in his essay "How to Do Great Work," emphasizes that great ideas often require breaking rules and changing perspectives—ideas that can initially seem "crazy" to most people [Paul Graham - How to Do Great Work](https://www.paulgraham.com/hwtw.html). I realized that my tendency to overanalyze and seek perfection was stifling our ability to innovate. No startup can flourish if it constantly fears making mistakes or venturing into the unknown.
 
@@ -36,7 +37,7 @@ Sam Altman also emphasizes a similar balance, advising startups to be skeptical 
 
 ## The Art of Balancing Skepticism and Innovation
 
-Navigating the startup world is like learning to dance between skepticism and innovation. My INTP tendencies to overanalyze and nitpick can sometimes get in the way of progress. But I’ve learned to recognize when my skepticism is constructive and when it’s merely an excuse for procrastination. As Paul Graham puts it, sometimes you have to get something out there, even if it’s not perfect, and learn from the feedback [Paul Graham - How to Do Great Work](https://www.paulgraham.com/hwtw.html).
+Navigating the startup world is like learning to dance between skepticism and innovation. A tendency to overanalyze and nitpick can sometimes get in the way of progress. The key is to learn to recognize when skepticism is constructive and when it’s merely an excuse for procrastination. As Paul Graham puts it, sometimes you have to get something out there, even if it’s not perfect, and learn from the feedback [Paul Graham - How to Do Great Work](https://www.paulgraham.com/hwtw.html).
 
 Elon Musk’s approach at SpaceX taught me a lot about balancing skepticism with a relentless drive for innovation. Musk is known for pushing the boundaries of what’s possible while rigorously testing his assumptions. His rapid iteration and willingness to learn from failure are models I strive to emulate [Sam Altman - Startup Playbook](https://playbook.samaltman.com/).
 
