@@ -31,7 +31,7 @@ Michael Seibel at Y Combinator often says to "fall in love with the problem, not
 
 ## Embracing Constructive Skepticism
 
-Growing beyond my natural inclination required adopting what I call "constructive skepticism." This isn’t the kind of skepticism that dismisses ideas outright but rather one that asks, “What needs to be true for this to work?” As Bob Dorf suggests in "The Startup Owner’s Manual," this means continuously engaging with customers, testing assumptions, and iterating based on real-world feedback [[Bob Dorf - The Startup Owner's Manual](https://www.bobdorf.co/book.html)].
+Growing beyond my natural inclination required adopting what I call "constructive skepticism." This isn’t the kind of skepticism that dismisses ideas outright but rather one that asks, “What needs to be true for this to work?” As Bob Dorf suggests in "The Startup Owner’s Manual," this means continuously engaging with customers, testing assumptions, and iterating based on real-world feedback [^1].
 
 Sam Altman also emphasizes a similar balance, advising startups to be skeptical about their own assumptions while being open to rapid iteration and learning from users. This approach helped us focus on what truly mattered. Instead of debating ideas endlessly, we launched a Minimum Viable Product (MVP) early on to test our assumptions quickly. Some features failed, others succeeded, but each test gave us invaluable insights into our market and user needs.
 
@@ -47,4 +47,6 @@ Reflecting on this journey, I realize that skepticism and innovation aren’t en
 
 If there’s one thing I’ve learned, it’s that the balance between skepticism and innovation is not about finding a perfect midpoint but rather about dynamically adjusting to the ever-changing landscape of the market and customer needs. For anyone out there building something new, remember: skepticism can sharpen your focus, and innovation can fuel your growth. The art lies in navigating the delicate dance between the two.
 
+## References
+[^1]: [Bob Dorf - The Startup Owner's Manual](https://www.bobdorf.co/book.html)
 ---
